@@ -9,7 +9,8 @@
 #files to ignore
 gee-raster-leaflet.R
 gee-leaflet.Rmd
-
+*gee-rasters.Rproj
+*gee-leaflet.html
 
 #Folders
 Data/
@@ -51,3 +52,4 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+.Rproj.user
