@@ -6,9 +6,13 @@
 .RData
 .RDataTmp
 
-# User-specific files
-.Ruserdata
+#files to ignore
+gee-raster-leaflet.R
+gee-leaflet.Rmd
 
+
+#Folders
+Data/
 # Example code in package build process
 *-Ex.R
 
@@ -19,7 +23,7 @@
 /*.Rcheck/
 
 # RStudio files
-.Rproj.user/
+*.Rproj.user/
 
 # produced vignettes
 vignettes/*.html
